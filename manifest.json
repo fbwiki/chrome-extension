@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "FB Wiki",
+  //"short_name": "FB Wiki",
+  "version": "0.1",
+  "version_name": "0.1 alpha",
+
+  "default_locale": "en",
+  //"description": "A plain text description",
+  //"icons": {...},
+}
